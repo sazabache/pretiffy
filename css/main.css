@@ -1,0 +1,133 @@
+/* Inserta tu CSS aqui */
+header{	
+	background-color: white;
+	position: fixed;
+	height: 100px;
+	width: 100%;
+}
+ul{
+	list-style-type: none;
+	text-align: center;
+}
+.menu{
+	font-family: 'Arial Narrow';
+	
+	margin-right: 50px;
+	float: left;
+
+}
+nav{
+	margin: 2% 18%;
+	float: left;
+	position: fixed;
+	 width: 700px;
+    margin-left: 780px;
+	
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.foto{
+	background-image: url(../images/background.jpg);
+	
+	background-repeat: no-repeat;
+	height:31em;
+	text-align: center;
+
+}
+.arial{
+	font-family: 'Arial Narrow';	
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.grande{
+	font-size: 3em;
+	color: white;
+}
+.chica{
+	font-size: 1.5em;
+	color: white;
+}
+.textodefoto{
+	padding-top: 10%;
+}
+section{
+	background-image: url(../images/tile1.png);	
+	background-repeat: repeat;
+	height: 390px;	
+   
+
+	
+}
+h2{
+	color: #A8258D;
+	font-size: 32px;
+	padding-bottom: 20px;
+	font-family: 'Arial Narrow';
+	text-align: center;	
+
+    padding-top: 30px;
+
+}
+.profiletext{
+	padding-top: 20px;
+}
+.textodeperfil{
+	text-align: left;	
+    margin-right: 0px;
+	font-size: 17px;
+	
+}
+.fotoperfil{
+	border: 1px solid gray;
+	padding: 5px;
+	width: 100%;
+}
+.despuesdebanner{
+	padding-top: 50px;
+	padding-bottom: 0px;	
+    margin-top: 0px;
+
+}
+aside{
+	background-color: white;
+	height: 390px;
+	width: 100%;
+}
+.thingstext{
+	padding-top: 20px;
+	
+}
+h3{
+	color: #A8258D;
+	
+	padding-bottom: 20px;
+	font-family: 'Arial Narrow';
+	text-align: center;	
+}
+
+.kitten{
+	 border: 1px solid #A8258D;
+    border-radius: 150px;
+    padding: 7px;
+    width: 20%;
+    margin: auto;
+}
+.fthings{
+	text-align: center;
+	margin-bottom: 40px;
+}
+footer{
+	background-image: url(../images/tile2.png);	
+	background-repeat: repeat;
+	height: 350px;
+}
+.ultimo{
+	padding-top: 70px;
+}
+
+.rsicons{
+	margin-right: 30px;
+	margin-top: 20px;
+}
